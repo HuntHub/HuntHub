@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuntHub
 - 👀 I’m interested in computer hardware, automation, and all things TERRAFORM
-- 🌱 I’m currently learning DevOps at Fullstack, projects to be uploaded soon!
+- 🌱 I’m a recent DevOps graduate of Fullstack Academy and I have projects to be uploaded soon!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
 
